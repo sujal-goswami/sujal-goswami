@@ -19,7 +19,7 @@
 <h2 align="center">Languages and Tools:</h2>
 
 <p align="center">  
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,c,cpp,git,py,kotlin,androidstudio,git,github,linux,mysql,atom,bash,eclipse,gatsby,idea,powershell,regex,stackoverflow,vscode&perline=10" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,c,cpp,git,py,kotlin,androidstudio,git,github,linux,mysql,atom,bash,eclipse,gatsby,idea,powershell,regex,stackoverflow,vscode,md,svg&perline=11" /></a>
 </p>
 <br/>
 <br/>  
