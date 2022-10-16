@@ -25,7 +25,7 @@
 <br/>  
 
 
-| ![Sujal Goswami GitHub stats](https://github-readme-stats.vercel.app/api?username=sujal-goswami&show_icons=true&theme=ayu-mirage) | ![Sujal Goswami GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujal-goswami&theme=ayu-mirage) |
+| ![Sujal Goswami GitHub stats](https://github-readme-stats.vercel.app/api?username=sujal-goswami&show_icons=true&theme=ayu-mirage&count_private=true) | ![Sujal Goswami GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujal-goswami&theme=ayu-mirage) |
 | :---: | :---: |
 
 <br/>  
