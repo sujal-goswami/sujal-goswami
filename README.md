@@ -16,6 +16,8 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+[![@sujal_goswami's Holopin board](https://holopin.me/sujal_goswami)](https://holopin.io/@sujal_goswami)
+
 <h2 align="center">Languages and Tools:</h2>
 
 <p align="center">  
