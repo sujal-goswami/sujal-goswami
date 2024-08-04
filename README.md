@@ -16,15 +16,6 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![@sujal_goswami's Holopin board](https://holopin.me/sujal_goswami)](https://holopin.io/@sujal_goswami)
-
-<h2 align="center">Languages and Tools:</h2>
-
-<p align="center">  
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,c,cpp,git,py,kotlin,androidstudio,git,github,linux,mysql,atom,bash,eclipse,gatsby,idea,powershell,regex,stackoverflow,vscode,md,svg&perline=11" /></a>
-</p>
-<br/>
-<br/>  
 
 
 | ![Sujal Goswami GitHub stats](https://github-readme-stats.vercel.app/api?username=sujal-goswami&show_icons=true&theme=ayu-mirage&count_private=true) | ![Sujal Goswami GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujal-goswami&theme=ayu-mirage) |
